@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://weizeebux.xn--sjner-wua.dk/sitemap.xml
